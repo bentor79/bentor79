@@ -1,17 +1,19 @@
 # Hi, I'm B. Nelson Torres 👋
 
-**Data Scientist · Machine Learning Engineer · AI Practitioner**
+**Statistical Programming Leader & Data Scientist** — Clinical Trials · Machine Learning · AWS AI/ML
 
-I'm pivoting from 12+ years leading clinical-trial statistical programming
-(Amgen, BMS, Moffitt) into ML / Data Science engineering. I work in
-Python, SAS, R and SQL, ship reproducible pipelines, and use modern AI
-engineering tools (GitHub Copilot, Claude Code, OpenAI Codex,
-VS Code AI sub-agents) every day.
+I lead Biostatistical Programming at Amgen and I'm an active practicing Data
+Scientist. 12+ years in clinical research — SAS, CDISC (SDTM/ADaM),
+Pinnacle21, FDA / EMA / PMDA / CFDA submissions — plus a growing portfolio
+of Python ML work (pandas, scikit-learn, TensorFlow/Keras, XGBoost, MLflow,
+GitHub Actions CI). The same rigor that ships a regulatory submission
+is what ships a trustworthy model.
 
-- 🎓 **AWS Certified AI Practitioner**, currently studying for **AWS Certified Machine Learning Engineer – Associate**.
-- 🧪 Co-author on **18 peer-reviewed publications**; primary SAS programmer on five Phase 3 oncology trials at BMS.
-- 🛠 Daily stack: Python · pandas · scikit-learn · TensorFlow/Keras · MLflow · SageMaker · Streamlit · GitHub Actions.
-- 📍 United States · open to remote.
+- 🎓 **AWS Certified AI Practitioner**, currently completing **AWS Certified Machine Learning Engineer – Associate**.
+- 🧪 **SAS Certified Base Programmer (SAS 9)**; co-author on **18 peer-reviewed publications**; primary SAS programmer on five Phase 3 oncology trials at BMS.
+- 🛠 Daily stack: SAS · Python · pandas · scikit-learn · TensorFlow/Keras · MLflow · Amazon SageMaker · Streamlit · GitHub Actions.
+- 📜 CDISC SDTM/ADaM · Pinnacle21 · SAP/TFLs · GxP · ICH-GCP.
+- 📍 Greater Tampa Bay Area, FL · open to remote.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bnelsontorres) · ✉️ bnelsontorres@gmail.com
 
 ---
@@ -37,12 +39,12 @@ modernization of legacy SageMaker SDK notebooks to `sagemaker>=2.245`.
 
 ---
 
-## What I bring from clinical research
+## What I bring — from both worlds
 
 - **Regulated-data discipline:** CDISC (SDTM/ADaM), Pinnacle21, GxP, ICH-GCP — the same rigor MLOps requires.
-- **Reproducibility & QC** at the level of FDA / EMA / PMDA / CFDA submissions.
+- **Reproducibility & QC** at the level of FDA / EMA / PMDA / CFDA submissions, applied directly to ML pipelines (leakage-safe features, embargoed splits, pytest coverage, CI).
 - **Cross-functional leadership** of geographically distributed (UK, China, India) programming teams.
-- Comfort communicating model results to non-technical stakeholders — I've translated statistics for clinicians and regulators for over a decade.
+- Comfort communicating model and study results to non-technical stakeholders — I've translated statistics for clinicians and regulators for over a decade.
 
 ---
 
